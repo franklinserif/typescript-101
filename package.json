@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "ts-jest": "^28.0.5",
+    "ts-node-dev": "^2.0.0"
+  }
+}
