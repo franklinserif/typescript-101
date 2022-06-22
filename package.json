@@ -1,4 +1,17 @@
 {
+  "name": "typescript-101",
+  "version": "1.0.0",
+  "description": "A project for practice typescript and algorithms",
+  "main": "src/app.ts",
+  "repository": "git@github.com:franklinserif/typescript-101.git",
+  "author": "franklin rodriguez <franklinserif@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "run": "ts-node-dev src/index",
+    "run:exerc": "ts-node-dev --filename",
+    "test": "ts-jest"
+  },
   "devDependencies": {
     "eslint": "^8.18.0",
     "ts-jest": "^28.0.5",
